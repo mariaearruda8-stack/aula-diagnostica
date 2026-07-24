@@ -18,3 +18,4 @@ print("Python! " * 5)
 
 print(type("Texto"))
 
+print(len("Programação"))
