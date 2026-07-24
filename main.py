@@ -19,3 +19,5 @@ print("Python! " * 5)
 print(type("Texto"))
 
 print(len("Programação"))
+
+print(round(3.14159, 2))
