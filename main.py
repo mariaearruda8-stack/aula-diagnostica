@@ -14,3 +14,6 @@ print("Olá, mundo!")
 
 print(15 + 35)
 
+print("Python! " * 5)
+
+
