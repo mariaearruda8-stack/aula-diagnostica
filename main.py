@@ -16,4 +16,5 @@ print(15 + 35)
 
 print("Python! " * 5)
 
+print(type("Texto"))
 
