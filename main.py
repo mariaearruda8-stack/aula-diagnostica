@@ -10,8 +10,7 @@ opcoes = ["Cara", "Coroa"]
 resultado = random.choice(opcoes)
 print(f"O resultado do lançamento foi: {resultado}")
 
-
-nome = ()
-
-
 print("Olá, mundo!")
+
+print(15 + 35)
+
