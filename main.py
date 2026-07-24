@@ -21,3 +21,5 @@ print(type("Texto"))
 print(len("Programação"))
 
 print(round(3.14159, 2))
+
+print(max(10, 50, 25, 5))
